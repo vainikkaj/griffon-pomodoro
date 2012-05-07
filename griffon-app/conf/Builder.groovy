@@ -5,3 +5,5 @@ root {
         view = '*'
     }
 }
+
+root.'TrayBuilderGriffonAddon'.addon=true
