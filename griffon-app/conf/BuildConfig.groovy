@@ -45,10 +45,10 @@ environments {
 
 griffon {
     memory {
-        //max = '64m'
-        //min = '2m'
-        //minPermSize = '2m'
-        //maxPermSize = '64m'
+        max = '32m'
+        min = '2m'
+        minPermSize = '2m'
+        maxPermSize = '32m'
     }
     jars {
         sign = false
