@@ -15,6 +15,6 @@ class PomodoroTests extends GriffonUnitTestCase {
     }
 
     void testSomething() {
-
+        fail('Not implemented!')
     }
 }
