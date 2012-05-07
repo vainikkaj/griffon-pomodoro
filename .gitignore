@@ -2,3 +2,5 @@ target
 staging
 wrapper
 *.sublime-workspace
+dist
+griffon-app/conf/keys
